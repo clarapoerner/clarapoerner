@@ -1,4 +1,4 @@
-## Oiii eu sou a Clara
+## Oie eu sou a Clara
 
 <div>
   <a href="https://github.com/clarapoerner">
